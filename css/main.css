@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#tela-inicial{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #415168;
+}
+#div-central{
+    width: 400px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-content: space-between; 
+}
+H1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #cdcec9;
+}
+input{
+    position: relative;
+    width: 90%;
+    height: 25px;
+    font-size: 15PX;
+    margin: 7 auto;
+    justify-content: space-evenly;
+    align-content: space-between; 
+    border: none;
+    border-radius: 2%;
+    
+}
+.login{
+    background-color: #fefefe;
+    color: #747e7f;
+}
+#entrar{
+    background-color: #75ca79;
+    color: ivory;
+    font-family: ARIAL;
+}
+#redes-sociais{
+    margin-top: 10px;
+    position: relative;
+    width: 90%;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+   
+}
+#redes-sociais ul{
+    width: 30%;
+    margin: 10 auto;
+    display: flex;
+}
+#redes-sociais ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+}
+#redes-sociais ul li a img{    
+    height: 20px;
+}
+#ajuda{    
+    margin: 10 auto;
+    width: 60%;
+    height: 70px;
+    text-align: center;
+    font-size: 14;
+    color: #cdcec9;
+    font-family: 'Times New Roman', Times, serif;
+}
+#ajuda > a{
+    text-decoration: underline;
+    color: #cdcec9;
+}
+#ajuda p a{
+    color: #7dae81;
+}
