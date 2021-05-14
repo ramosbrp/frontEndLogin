@@ -1,7 +1,13 @@
-## Exemplo de página de login utilizando HTML e CSS.
+![frontEnd](https://user-images.githubusercontent.com/61557867/118275949-745c4000-b49d-11eb-8786-3e3fc32d768e.GIF)
 
-:sparkles: Especificações :sparkles:
+
+
+# Exemplo login page using HTML e CSS.
+
+> Status: Developing
+
+:sparkles: Spacifications :sparkles:
 
 * Login;
 * Logo;
-* Redes Sociais; 
+* Social Network; 
