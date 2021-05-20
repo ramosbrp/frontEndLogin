@@ -2,9 +2,9 @@
 
 
 
-# Exemplo login page using HTML e CSS.
+# Exemple login page using HTML e CSS.
 
-> Status: Developing
+> Status: ⚠️ Developing
 
 :sparkles: Spacifications :sparkles:
 
