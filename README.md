@@ -2,7 +2,7 @@
 
 
 
-# Exemple login page using HTML e CSS.
+# Exemple login page using HTML and CSS.
 
 > Status: ⚠️ Developing
 
